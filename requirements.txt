@@ -1,0 +1,23 @@
+# --- Core Deep Learning & NLP (Expert-Informed Phase) ---
+sentence-transformers==2.2.2
+torch>=1.13.0
+transformers>=4.25.0
+
+# --- Clustering & Topic Modeling (Data-Driven Phase) ---
+bertopic==0.15.0
+hdbscan==0.8.29
+umap-learn==0.5.3
+
+# --- Data Analysis & Statistics (Lift Score & Preprocessing) ---
+scikit-learn==1.2.0
+pandas>=2.0.0
+numpy>=1.23.5
+
+# --- Visualization (Analysis Phase) ---
+plotly>=5.13.0
+matplotlib>=3.7.1
+seaborn>=0.12.2
+
+# --- Utilities ---
+tqdm>=4.66.1
+python-dotenv>=1.0.0
