@@ -3,8 +3,6 @@ This is the project page for the paper "Productive Discussion Moves in Groups Ad
 This repository provides the code for the Dialogue-Centric Learning Analytics (DCLA) framework presented at LAK 2026.
 The core of this work is a **Hybrid Approach** that bridges the gap between top-down expert coding and bottom-up data-driven discovery to analyze complex AI ethics discussions.
 
-## Abtract
-
 ## 🛠️ Key Methodology: The Hybrid Approach
 
 Our methodology integrates human expertise with machine learning to identify 14 distinct discussion moves across five categories.
