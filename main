@@ -1,7 +1,7 @@
 import pandas as pd
 from utils import get_device, clean_text
 from fine_tuning import run_fine_tuning
-from topic_modeling import run_hierarchical_bertopic
+from data_clustering import run_hierarchical_bertopic
 from visualization import plot_3d_clusters, plot_lift_heatmap
 
 # 설정
