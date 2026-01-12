@@ -1,4 +1,4 @@
-# LAK 26 Project Page
+# LAK 26 Project Page (Work in Progress)
 This is the project page for the paper "Productive Discussion Moves in Groups Addressing Controversial Issues"
 This repository provides the code for the Dialogue-Centric Learning Analytics (DCLA) framework presented at LAK 2026.
 The core of this work is a **Hybrid Approach** that bridges the gap between top-down expert coding and bottom-up data-driven discovery to analyze complex AI ethics discussions.
